@@ -27,7 +27,7 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
   <img width="45" src="https://cdn.simpleicons.org/wireshark" />
   <img width="45" src="https://cdn.simpleicons.org/metasploit" />
-  <img width="45" src="https://cdn.simpleicons.org/burpsuite/white" />
+  <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6600" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RedHat-Dark.svg" />
 </div>
 
