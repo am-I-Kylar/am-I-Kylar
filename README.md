@@ -24,6 +24,10 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RedHat-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
 </div>
 
 <br>
