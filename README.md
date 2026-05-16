@@ -12,23 +12,30 @@
 
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://cdn.simpleicons.org/bluehat/00FF99" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
+    <!-- Languages -->
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+
+  <!-- Backend & Database -->
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
+
+  <!-- System & Cloud -->
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RedHat-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" />
+
+  <!-- Tools & Cybersecurity -->
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
   <img width="45" src="https://cdn.simpleicons.org/wireshark" />
   <img width="45" src="https://cdn.simpleicons.org/metasploit" />
   <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6600" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RedHat-Dark.svg" />
 </div>
 
 <br>
