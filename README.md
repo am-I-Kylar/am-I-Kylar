@@ -12,6 +12,7 @@
 
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/BlueHat-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" />
@@ -24,10 +25,11 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
+  <img width="45" src="https://cdn.simpleicons.org/wireshark" />
+  <img width="45" src="https://cdn.simpleicons.org/metasploit" />
+  <img width="45" src="https://cdn.simpleicons.org/burpsuite" />
+  <img width="45" src="https://cdn.simpleicons.org/openvpn" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RedHat-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
 </div>
 
 <br>
